@@ -9,21 +9,21 @@ if books > 10:
 
 # Snippet 2:
 favorite_color = "blue"
-print(f"favorite_color")
+print(favorite_color)
 
 
 # Snippet 3:
 cats = 3
 dogs = 2
-total_pets = cats + dog
+total_pets = cats + dogs
 print(f"Total pets: {total_pets}")
 
 
 # Snippet 4:
 is_sunny = True
 if is_sunny:
- message = "Wear sunglasses"
-print(message)
+    message = "Wear sunglasses"
+    print(message)
 
 
 # Snippet 5:
@@ -35,14 +35,14 @@ print(f"Speed: {speed} mph")
 
 # Snippet 6:
 level = 5
-if level: = 5
-print("You reached level 5!")
+if level == 5:
+    print("You reached level 5!")
 
 
 # Snippet 7:
 width = 8
 height = 10
-area = widht * height
+area = width * height
 print(f"Area: {area}")
 
 
